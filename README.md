@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Aplicación de Frases de Breaking Bad. 
+Conume la API Breaking Bad Quotes
+
+https://bit.ly/2EkJ8BZ
+
 ## Available Scripts
 
 In the project directory, you can run:
